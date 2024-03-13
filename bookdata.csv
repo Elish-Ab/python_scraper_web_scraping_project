@@ -1,0 +1,123 @@
+availability,category,description,num_reviews,price,price_excl_tax,price_incl_tax,product_type,stars,tax,title,upc,url
+22,poetry,"(None,)",0,51.77,51.77,51.77,books,3,0.0,A Light in the Attic,Books,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+19,default,"(None,)",0,17.93,17.93,17.93,books,3,0.0,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",Books,https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+20,fiction,"(None,)",0,50.1,50.1,50.1,books,1,0.0,Soumission,Books,https://books.toscrape.com/catalogue/soumission_998/index.html
+20,historical fiction,"(None,)",0,53.74,53.74,53.74,books,1,0.0,Tipping the Velvet,Books,https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+20,mystery,"(None,)",0,47.82,47.82,47.82,books,4,0.0,Sharp Objects,Books,https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+20,history,"(None,)",0,54.23,54.23,54.23,books,5,0.0,Sapiens: A Brief History of Humankind,Books,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+19,young adult,"(None,)",0,22.65,22.65,22.65,books,1,0.0,The Requiem Red,Books,https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+19,business,"(None,)",0,33.34,33.34,33.34,books,4,0.0,The Dirty Little Secrets of Getting Your Dream Job,Books,https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+19,default,"(None,)",0,22.6,22.6,22.6,books,4,0.0,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Books,https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+19,default,"(None,)",0,13.99,13.99,13.99,books,2,0.0,"Starving Hearts (Triangular Trade Trilogy, #1)",Books,https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html
+19,poetry,"(None,)",0,23.88,23.88,23.88,books,1,0.0,Olio,Books,https://books.toscrape.com/catalogue/olio_984/index.html
+19,poetry,"(None,)",0,20.66,20.66,20.66,books,4,0.0,Shakespeare's Sonnets,Books,https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html
+19,sequential art,"(None,)",0,52.29,52.29,52.29,books,5,0.0,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),Books,https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html
+19,young adult,"(None,)",0,17.46,17.46,17.46,books,5,0.0,Set Me Free,Books,https://books.toscrape.com/catalogue/set-me-free_988/index.html
+19,poetry,"(None,)",0,52.15,52.15,52.15,books,1,0.0,The Black Maria,Books,https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+19,travel,"(None,)",0,45.17,45.17,45.17,books,2,0.0,It's Only the Himalayas,Books,https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
+19,science fiction,"(None,)",0,37.59,37.59,37.59,books,1,0.0,Mesaerion: The Best Science Fiction Stories 1800-1849,Books,https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
+19,music,"(None,)",0,35.02,35.02,35.02,books,5,0.0,Rip it Up and Start Again,Books,https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
+19,music,"(None,)",0,57.25,57.25,57.25,books,3,0.0,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",Books,https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
+19,politics,"(None,)",0,51.33,51.33,51.33,books,2,0.0,Libertarianism for Beginners,Books,https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html
+19,thriller,"(None,)",0,12.84,12.84,12.84,books,1,0.0,In Her Wake,Books,https://books.toscrape.com/catalogue/in-her-wake_980/index.html
+19,romance,"(None,)",0,25.27,25.27,25.27,books,5,0.0,Chase Me (Paris Nights #2),Books,https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html
+19,music,"(None,)",0,37.32,37.32,37.32,books,2,0.0,How Music Works,Books,https://books.toscrape.com/catalogue/how-music-works_979/index.html
+19,romance,"(None,)",0,34.53,34.53,34.53,books,5,0.0,Black Dust,Books,https://books.toscrape.com/catalogue/black-dust_976/index.html
+19,default,"(None,)",0,53.13,53.13,53.13,books,3,0.0,Aladdin and His Wonderful Lamp,Books,https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html
+19,food and drink,"(None,)",0,30.52,30.52,30.52,books,3,0.0,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",Books,https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html
+18,nonfiction,"(None,)",0,40.3,40.3,40.3,books,5,0.0,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,Books,https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html
+19,default,"(None,)",0,22.5,22.5,22.5,books,3,0.0,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,Books,https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html
+19,childrens,"(None,)",0,54.64,54.64,54.64,books,3,0.0,Birdsong: A Story in Pictures,Books,https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html
+18,art,"(None,)",0,44.18,44.18,44.18,books,4,0.0,Wall and Piece,Books,https://books.toscrape.com/catalogue/wall-and-piece_971/index.html
+18,thriller,"(None,)",0,23.82,23.82,23.82,books,5,0.0,The Elephant Tree,Books,https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html
+18,spirituality,"(None,)",0,17.66,17.66,17.66,books,5,0.0,The Four Agreements: A Practical Guide to Personal Freedom,Books,https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html
+18,nonfiction,"(None,)",0,31.05,31.05,31.05,books,3,0.0,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Books,https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html
+18,childrens,"(None,)",0,36.89,36.89,36.89,books,1,0.0,The Bear and the Piano,Books,https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html
+18,philosophy,"(None,)",0,15.94,15.94,15.94,books,5,0.0,Sophie's World,Books,https://books.toscrape.com/catalogue/sophies-world_966/index.html
+18,default,"(None,)",0,33.29,33.29,33.29,books,3,0.0,Penny Maybe,Books,https://books.toscrape.com/catalogue/penny-maybe_965/index.html
+18,mystery,"(None,)",0,19.63,19.63,19.63,books,1,0.0,"In a Dark, Dark Wood",Books,https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html
+18,thriller,"(None,)",0,52.22,52.22,52.22,books,4,0.0,Behind Closed Doors,Books,https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html
+17,poetry,"(None,)",0,33.63,33.63,33.63,books,2,0.0,You can't bury them all: Poems,Books,https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html
+18,default,"(None,)",0,18.02,18.02,18.02,books,2,0.0,Maude (1883-1993):She Grew Up with the country,Books,https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html
+availability,category,description,num_reviews,price,price_excl_tax,price_incl_tax,product_type,stars,tax,title,upc,url
+22,poetry,"(None,)",0,51.77,51.77,51.77,books,3,0.0,A Light in the Attic,Books,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+19,default,"(None,)",0,13.99,13.99,13.99,books,2,0.0,"Starving Hearts (Triangular Trade Trilogy, #1)",Books,https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html
+20,historical fiction,"(None,)",0,53.74,53.74,53.74,books,1,0.0,Tipping the Velvet,Books,https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+19,poetry,"(None,)",0,52.15,52.15,52.15,books,1,0.0,The Black Maria,Books,https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+20,fiction,"(None,)",0,50.1,50.1,50.1,books,1,0.0,Soumission,Books,https://books.toscrape.com/catalogue/soumission_998/index.html
+19,poetry,"(None,)",0,20.66,20.66,20.66,books,4,0.0,Shakespeare's Sonnets,Books,https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html
+20,mystery,"(None,)",0,47.82,47.82,47.82,books,4,0.0,Sharp Objects,Books,https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+20,history,"(None,)",0,54.23,54.23,54.23,books,5,0.0,Sapiens: A Brief History of Humankind,Books,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+19,young adult,"(None,)",0,22.65,22.65,22.65,books,1,0.0,The Requiem Red,Books,https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+19,business,"(None,)",0,33.34,33.34,33.34,books,4,0.0,The Dirty Little Secrets of Getting Your Dream Job,Books,https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+19,sequential art,"(None,)",0,52.29,52.29,52.29,books,5,0.0,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),Books,https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html
+19,default,"(None,)",0,22.6,22.6,22.6,books,4,0.0,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Books,https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+19,poetry,"(None,)",0,23.88,23.88,23.88,books,1,0.0,Olio,Books,https://books.toscrape.com/catalogue/olio_984/index.html
+19,travel,"(None,)",0,45.17,45.17,45.17,books,2,0.0,It's Only the Himalayas,Books,https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
+19,young adult,"(None,)",0,17.46,17.46,17.46,books,5,0.0,Set Me Free,Books,https://books.toscrape.com/catalogue/set-me-free_988/index.html
+19,default,"(None,)",0,17.93,17.93,17.93,books,3,0.0,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",Books,https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+19,science fiction,"(None,)",0,37.59,37.59,37.59,books,1,0.0,Mesaerion: The Best Science Fiction Stories 1800-1849,Books,https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
+19,politics,"(None,)",0,51.33,51.33,51.33,books,2,0.0,Libertarianism for Beginners,Books,https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html
+19,music,"(None,)",0,35.02,35.02,35.02,books,5,0.0,Rip it Up and Start Again,Books,https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
+19,music,"(None,)",0,57.25,57.25,57.25,books,3,0.0,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",Books,https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
+19,thriller,"(None,)",0,12.84,12.84,12.84,books,1,0.0,In Her Wake,Books,https://books.toscrape.com/catalogue/in-her-wake_980/index.html
+19,music,"(None,)",0,37.32,37.32,37.32,books,2,0.0,How Music Works,Books,https://books.toscrape.com/catalogue/how-music-works_979/index.html
+19,food and drink,"(None,)",0,30.52,30.52,30.52,books,3,0.0,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",Books,https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html
+19,romance,"(None,)",0,34.53,34.53,34.53,books,5,0.0,Black Dust,Books,https://books.toscrape.com/catalogue/black-dust_976/index.html
+18,art,"(None,)",0,44.18,44.18,44.18,books,4,0.0,Wall and Piece,Books,https://books.toscrape.com/catalogue/wall-and-piece_971/index.html
+19,romance,"(None,)",0,25.27,25.27,25.27,books,5,0.0,Chase Me (Paris Nights #2),Books,https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html
+18,nonfiction,"(None,)",0,40.3,40.3,40.3,books,5,0.0,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,Books,https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html
+19,default,"(None,)",0,22.5,22.5,22.5,books,3,0.0,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,Books,https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html
+18,childrens,"(None,)",0,36.89,36.89,36.89,books,1,0.0,The Bear and the Piano,Books,https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html
+19,default,"(None,)",0,53.13,53.13,53.13,books,3,0.0,Aladdin and His Wonderful Lamp,Books,https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html
+19,childrens,"(None,)",0,54.64,54.64,54.64,books,3,0.0,Birdsong: A Story in Pictures,Books,https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html
+18,thriller,"(None,)",0,23.82,23.82,23.82,books,5,0.0,The Elephant Tree,Books,https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html
+18,nonfiction,"(None,)",0,31.05,31.05,31.05,books,3,0.0,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Books,https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html
+18,philosophy,"(None,)",0,15.94,15.94,15.94,books,5,0.0,Sophie's World,Books,https://books.toscrape.com/catalogue/sophies-world_966/index.html
+17,poetry,"(None,)",0,33.63,33.63,33.63,books,2,0.0,You can't bury them all: Poems,Books,https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html
+18,spirituality,"(None,)",0,17.66,17.66,17.66,books,5,0.0,The Four Agreements: A Practical Guide to Personal Freedom,Books,https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html
+18,default,"(None,)",0,33.29,33.29,33.29,books,3,0.0,Penny Maybe,Books,https://books.toscrape.com/catalogue/penny-maybe_965/index.html
+18,thriller,"(None,)",0,52.22,52.22,52.22,books,4,0.0,Behind Closed Doors,Books,https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html
+18,mystery,"(None,)",0,19.63,19.63,19.63,books,1,0.0,"In a Dark, Dark Wood",Books,https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html
+18,default,"(None,)",0,18.02,18.02,18.02,books,2,0.0,Maude (1883-1993):She Grew Up with the country,Books,https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html
+availability,category,description,num_reviews,price,price_excl_tax,price_incl_tax,product_type,stars,tax,title,upc,url
+22,poetry,"(None,)",0,51.77,51.77,51.77,books,3,0.0,A Light in the Attic,Books,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+19,business,"(None,)",0,33.34,33.34,33.34,books,4,0.0,The Dirty Little Secrets of Getting Your Dream Job,Books,https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+20,historical fiction,"(None,)",0,53.74,53.74,53.74,books,1,0.0,Tipping the Velvet,Books,https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+20,history,"(None,)",0,54.23,54.23,54.23,books,5,0.0,Sapiens: A Brief History of Humankind,Books,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+20,fiction,"(None,)",0,50.1,50.1,50.1,books,1,0.0,Soumission,Books,https://books.toscrape.com/catalogue/soumission_998/index.html
+20,mystery,"(None,)",0,47.82,47.82,47.82,books,4,0.0,Sharp Objects,Books,https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+19,default,"(None,)",0,22.6,22.6,22.6,books,4,0.0,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Books,https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+19,default,"(None,)",0,17.93,17.93,17.93,books,3,0.0,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",Books,https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+19,poetry,"(None,)",0,20.66,20.66,20.66,books,4,0.0,Shakespeare's Sonnets,Books,https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html
+19,young adult,"(None,)",0,22.65,22.65,22.65,books,1,0.0,The Requiem Red,Books,https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+19,young adult,"(None,)",0,17.46,17.46,17.46,books,5,0.0,Set Me Free,Books,https://books.toscrape.com/catalogue/set-me-free_988/index.html
+19,music,"(None,)",0,35.02,35.02,35.02,books,5,0.0,Rip it Up and Start Again,Books,https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
+19,default,"(None,)",0,13.99,13.99,13.99,books,2,0.0,"Starving Hearts (Triangular Trade Trilogy, #1)",Books,https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html
+19,poetry,"(None,)",0,52.15,52.15,52.15,books,1,0.0,The Black Maria,Books,https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+19,music,"(None,)",0,57.25,57.25,57.25,books,3,0.0,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",Books,https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
+19,sequential art,"(None,)",0,52.29,52.29,52.29,books,5,0.0,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),Books,https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html
+19,politics,"(None,)",0,51.33,51.33,51.33,books,2,0.0,Libertarianism for Beginners,Books,https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html
+19,travel,"(None,)",0,45.17,45.17,45.17,books,2,0.0,It's Only the Himalayas,Books,https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
+19,science fiction,"(None,)",0,37.59,37.59,37.59,books,1,0.0,Mesaerion: The Best Science Fiction Stories 1800-1849,Books,https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
+19,poetry,"(None,)",0,23.88,23.88,23.88,books,1,0.0,Olio,Books,https://books.toscrape.com/catalogue/olio_984/index.html
+19,romance,"(None,)",0,25.27,25.27,25.27,books,5,0.0,Chase Me (Paris Nights #2),Books,https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html
+19,music,"(None,)",0,37.32,37.32,37.32,books,2,0.0,How Music Works,Books,https://books.toscrape.com/catalogue/how-music-works_979/index.html
+19,thriller,"(None,)",0,12.84,12.84,12.84,books,1,0.0,In Her Wake,Books,https://books.toscrape.com/catalogue/in-her-wake_980/index.html
+19,default,"(None,)",0,53.13,53.13,53.13,books,3,0.0,Aladdin and His Wonderful Lamp,Books,https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html
+19,childrens,"(None,)",0,54.64,54.64,54.64,books,3,0.0,Birdsong: A Story in Pictures,Books,https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html
+18,nonfiction,"(None,)",0,31.05,31.05,31.05,books,3,0.0,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Books,https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html
+19,food and drink,"(None,)",0,30.52,30.52,30.52,books,3,0.0,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",Books,https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html
+18,spirituality,"(None,)",0,17.66,17.66,17.66,books,5,0.0,The Four Agreements: A Practical Guide to Personal Freedom,Books,https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html
+18,nonfiction,"(None,)",0,40.3,40.3,40.3,books,5,0.0,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,Books,https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html
+19,default,"(None,)",0,22.5,22.5,22.5,books,3,0.0,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,Books,https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html
+18,art,"(None,)",0,44.18,44.18,44.18,books,4,0.0,Wall and Piece,Books,https://books.toscrape.com/catalogue/wall-and-piece_971/index.html
+19,romance,"(None,)",0,34.53,34.53,34.53,books,5,0.0,Black Dust,Books,https://books.toscrape.com/catalogue/black-dust_976/index.html
+18,thriller,"(None,)",0,23.82,23.82,23.82,books,5,0.0,The Elephant Tree,Books,https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html
+18,childrens,"(None,)",0,36.89,36.89,36.89,books,1,0.0,The Bear and the Piano,Books,https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html
+18,default,"(None,)",0,33.29,33.29,33.29,books,3,0.0,Penny Maybe,Books,https://books.toscrape.com/catalogue/penny-maybe_965/index.html
+18,philosophy,"(None,)",0,15.94,15.94,15.94,books,5,0.0,Sophie's World,Books,https://books.toscrape.com/catalogue/sophies-world_966/index.html
+18,mystery,"(None,)",0,19.63,19.63,19.63,books,1,0.0,"In a Dark, Dark Wood",Books,https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html
+17,poetry,"(None,)",0,33.63,33.63,33.63,books,2,0.0,You can't bury them all: Poems,Books,https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html
+18,thriller,"(None,)",0,52.22,52.22,52.22,books,4,0.0,Behind Closed Doors,Books,https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html
+18,default,"(None,)",0,18.02,18.02,18.02,books,2,0.0,Maude (1883-1993):She Grew Up with the country,Books,https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html
